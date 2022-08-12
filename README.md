@@ -9,7 +9,7 @@ Documentation de [Figma](https://www.figma.com/)
 
 ## auto layout
 
-L'[auto layout](https://help.figma.com/hc/en-us/articles/360040451373) est une propriété que l'on peut ajouter aux `frames` et aux `components`. Cela permet de créer des design qui s'adaptent à la tailel du contenu. Pratique pour des bordures de texte, des arrière-plan. On peut controller la manière qu'a le cadre de se déformer avec le contenu, le padding, etc.
+L' [auto layout](https://help.figma.com/hc/en-us/articles/360040451373) est une propriété que l'on peut ajouter aux `frames` et aux `components`. Cela permet de créer des design qui s'adaptent à la tailel du contenu. Pratique pour des bordures de texte, des arrière-plan. On peut controller la manière qu'a le cadre de se déformer avec le contenu, le padding, etc.
 
 ## Ressources
 
